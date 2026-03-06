@@ -13,6 +13,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "essentia": "^0.1.1",
+    "essentia.js": "^0.1.3",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
