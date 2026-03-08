@@ -24,3 +24,5 @@ await musicNN.initialize();
 let predictions = await musicNN.predict(featureInput, true);
 // Print the predictions to the console
 console.log(predictions);
+
+// i have some problems with the code above, can someone help me?

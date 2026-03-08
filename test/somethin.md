@@ -38,3 +38,11 @@ im back yall, i just arely code this day, cuz i have so much fun playng guitar, 
 and im still useing vim, mean still learning vim, i wonder how fast i am when master it XD
 
 i wonder i will look like hacker if i master fim later hahaa
+
+im starting to enjoy using vim movement, hahahahaha, i love this
+
+im sure receraching is a part of programing or smth
+
+hei is so hard
+
+hello im back here again this is my idk attemp to ix and implement the algorithm
