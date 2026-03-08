@@ -47,3 +47,4 @@ hei is so hard
 
 hello im back here again this is my idk attemp to fix and implement the algorithm
 
+good i made some progress
