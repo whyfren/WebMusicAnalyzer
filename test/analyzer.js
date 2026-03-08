@@ -40,7 +40,7 @@ const fs = require('fs');
       
 async function main() {
   // Load and decode your audio file to raw PCM samples
-  const fileBuffer = fs.readFileSync('./your-audio-file.mp3');
+  const fileBuffer = fs.readFileSync('src\assets\Hindia - the world is ending all over again.mp3');
   const audioBuffer = await audioDecode(fileBuffer);
 
   // Essentia expects mono Float32Array at 16000 Hz

@@ -2,6 +2,8 @@ import './App.css'
 import Results from "./components/results"
 import Progress_Bar from './components/Progress'
 import useFile from './hooks/filehandler'
+import processFile from './hooks/filehandler'
+import { useState } from 'react'
 
 function App() {
   const { file, handleFile } = useFile();
@@ -44,7 +46,7 @@ function App() {
 
       {/* Analyze button */}
         {file && (
-          <button className="analyze-btn">
+          <button className="analyze-btn" onClick={processFile}>
             Analyze Track
           </button>
         )}

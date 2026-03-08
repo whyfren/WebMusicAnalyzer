@@ -19,6 +19,12 @@ type Essentia = InstanceType<typeof EssentiaLib>;
 import { readFileSync, writeFileSync } from "fs";
 import { AudioContext } from "node-web-audio-api";
 
+
+export async function analyzeAudio(file: File) {
+  const buffer = await file.arrayBuffer();
+  console.log(buffer);
+}
+
 // ─────────────────────────────────────────────
 // TYPES
 // ─────────────────────────────────────────────

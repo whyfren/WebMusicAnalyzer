@@ -45,4 +45,5 @@ im sure receraching is a part of programing or smth
 
 hei is so hard
 
-hello im back here again this is my idk attemp to ix and implement the algorithm
+hello im back here again this is my idk attemp to fix and implement the algorithm
+
