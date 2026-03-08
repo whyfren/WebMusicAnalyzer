@@ -17,8 +17,9 @@ const useFile = () => {
 
 const processFile = (file: File | null) => {
   if (!file) return;
-
   analyzeAudio(file);
+  console.log("Processing file:", file.name);
 };
 
 export default useFile;
+export { processFile };
