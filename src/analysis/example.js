@@ -2,6 +2,8 @@
 import { EssentiaWASM } from "./essentia.js-wasm.js";
 import { EssentiaTFInputExtractor, TensorflowMusicNN } from "./essentia.js-model.js";
 import * as tf from "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs";
+//  even the example are cooked, HELP ME PL adkfjS
+
 
 // URL to a mono audio file
 const audioURL = "https://freesound.org/data/previews/328/328857_230356-1q.mp3"; // Web Audio API AudioContext
